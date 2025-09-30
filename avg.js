@@ -9,5 +9,5 @@ function avg(score){
         return average;
 }
 
-var Score=[50,20,30,15,16,21,33,11,9,27];
+var Score=[50,20,30,15,16,21,33,11,9,27,99,22,66,55,44,33,-1];
 console.log(Score.toString+" average:"+ avg(Score))
