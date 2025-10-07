@@ -6,5 +6,5 @@ function fib(n){
         return fib(n-1)+fib(n-2);
 }
 //test
-var n=3;
+var n=50;
 console. log("fibonacci "+n+"="+ fib(n));
